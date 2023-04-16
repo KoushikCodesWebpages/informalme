@@ -1,0 +1,27 @@
+
+.aba {
+
+        width: 300px;
+
+
+}
+.macroflex  {
+
+    font-size: x-large;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 50px 20px 30px 50px;
+    align-items: center;
+    flex: 1;
+
+}
+.microflex {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 10px 20px 10px 20px;
+    width: 300px;
+
+}

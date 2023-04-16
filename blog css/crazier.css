@@ -1,0 +1,37 @@
+.gameflex {
+
+            display: flex;
+            flex-direction: row;
+            justify-content: start;
+            align-items: center;
+            margin: 10px 20px 10px 20px;
+
+}
+
+
+.gametxt {
+
+        font-size: xx-large;
+        text-align: center;
+        width: fit-content;
+        padding: auto;
+
+
+}
+
+.gamepic {
+
+    width: 250px;
+    margin: 5px 40px 5px;
+    
+}
+
+.audiobox {
+
+        display: flex;
+        align-items: center;
+        width: 210px;
+        margin: 5px 40px 5px;
+        padding: 5px 20px 5px 20px;
+        background-color: blue;
+}
